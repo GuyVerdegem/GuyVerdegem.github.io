@@ -1,6 +1,7 @@
-.body {
+bodyimage {
     background-image: url('../images/guy-plechtige\ communie.jpeg');
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
+    background-color: aquamarine;
   }
